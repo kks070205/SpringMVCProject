@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+*{margin:0 auto; font-family: "Gothic"; color:#333333;}
+
+h2{text-align:center; margin-top:10px;}
+
+body{
+	background-color:rgb(250,250,250);
+	width:100%;
+}
+
+input{
+	margin:3px;
+}
+input[type="submit"]{
+	margin-top:10px;
+	border: solid 1px #002060;
+}
+
+ img{
+ 	border:0px;
+ }
+
+fieldset {
+	width:30%;
+	border:1px solid black;
+}
+
+
+
+
+
+
